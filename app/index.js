@@ -1,1 +1,0 @@
-import * as task1 from './async';
