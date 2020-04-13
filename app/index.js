@@ -1,0 +1,1 @@
+//import * as weak_map from './tasks/weak_map';

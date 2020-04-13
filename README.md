@@ -8,3 +8,4 @@
     - https://medium.com/javascript-in-plain-english/binary-search-tree-in-javascript-ca5aa7ba05de
     - https://www.geeksforgeeks.org/implementation-binary-search-tree-javascript/
 - js_features
+  * weak_map
